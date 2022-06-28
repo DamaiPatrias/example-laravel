@@ -65,4 +65,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Tentang Respositori ini
 
-Pertama kali dalam membuat website menggunakan laravel, dengan studi kasus membuat website blog sederhana
+Pertama kali dalam membuat website menggunakan laravel, dengan studi kasus membuat website blog sederhana [DamaiPatrias](https://github.com/DamaiPatrias).
